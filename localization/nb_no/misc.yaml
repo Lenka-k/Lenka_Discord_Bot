@@ -1,0 +1,18 @@
+bot:
+  name: Lenka
+  infotext: 
+  spectext: |-
+    
+    **Lenka:** {_bot_v}
+  stattext: |-
+    **Tenarar:** {_guilds}
+    **Brukere:** {_members}
+  what: Hva?
+  how: Hvordan?
+  how_many: Hvor mange?
+  how_long: Hvor lenge?
+  footer_text: 
+music:
+  title: Musikkinfo
+  players: Spillere
+  listeners: Lyttere

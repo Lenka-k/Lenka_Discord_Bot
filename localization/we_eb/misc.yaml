@@ -1,0 +1,17 @@
+bot:
+  name: Lenka
+  infotext: 
+  spectext: |-
+    
+  stattext: |-
+    **Guiwds:** {_guilds}
+    **Usews:** {_members}
+  what: What?
+  how: How?
+  how_many: How many?
+  how_long: How wonyg?
+  footer_text: Created by The Whimsical Kid
+music:
+  title: Music inyfo
+  players: Pwayews
+  listeners: Wistenyews

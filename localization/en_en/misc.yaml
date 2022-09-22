@@ -1,0 +1,18 @@
+bot:
+  name: Lenka
+  infotext: Created with Love & Compassion by The Whimsical Kid
+  spectext: |-
+    
+    **Lenka:** {_bot_v}
+  stattext: |-
+    **Guilds:** {_guilds}
+    **Users:** {_members}
+  what: Creater
+  how: Ver
+  how_many: How many?
+  how_long: How long?
+  footer_text: Created by The Whimsical Kid
+music:
+  title: Music info
+  players: Players
+  listeners: Listeners

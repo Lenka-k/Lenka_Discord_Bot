@@ -1,0 +1,17 @@
+bot:
+  name: Lenka
+  infotext: 
+  spectext: |-
+    
+  stattext: |-
+    **Tenarar:** {_guilds}
+    **Brukarar:** {_members}
+  what: Kva?
+  how: Korleis?
+  how_many: Kor mange?
+  how_long: Kor lengje?
+  footer_text: 
+music:
+  title: Musikkinformasjon
+  players: Spelarar
+  listeners: Lyttarar
