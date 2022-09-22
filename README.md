@@ -14,7 +14,7 @@
 ### Setup
 
 1. Change or copy data/config.yaml.example to config.yaml
-2. Create or find a [lavalink](https://github.com/Frederikam/Lavalink) server you can use.
+2. Create or find a [lavalink](https://github.com/freyacodes/Lavalink/releases) server you can use.
 3. install requirements `python -m pip install -r requirements.txt`
 4. Add your bot token in /data/config.yaml and lavalink server OR lavalink server package to the bot's root directory.
 5. First start the lavalink server by opening a terminal or command prompt window in the Lavalink's package directory
