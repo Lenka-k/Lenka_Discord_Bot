@@ -15,10 +15,12 @@
 
 1. Change or copy data/config.yaml.example to config.yaml
 2. Create or find a [lavalink](https://github.com/Frederikam/Lavalink) server you can use.
-3. Add your bot token and lavalink server.
-4. Edit any other settings you want.
-5. install requirements `python -m pip install -r requirements.txt`
-6. run the bot :)
+3. install requirements `python -m pip install -r requirements.txt`
+4. Add your bot token in /data/config.yaml and lavalink server OR lavalink server package to the bot's root directory.
+5. First start the lavalink server by opening a terminal or command prompt window in the Lavalink's package directory
+   and run the command `java -jar Lavalink.jar` or whatever is the package name of lavalink package.
+6. Edit any other settings you want.
+7. open the terminal or command prompt in bot's directory and run the command `python3 bot.py` :)
 
 ### Docker
 
